@@ -17,7 +17,7 @@
   <p align="center">
 Redefining AI with Transparency, Trust, and Innovation in a Decentralized Marketplace!
     <br />
-    <a href=""><strong>Explore the lightpaper »</strong></a>
+    <a href="https://docs.google.com/document/d/13nHnsHEDxS_ixIeJnUjTHjbBT-Ianvu0Jvsk8aL5OEg/edit?usp=sharing"><strong>Explore the lightpaper »</strong></a>
     <br />
     <a href="">Suggest Changes</a>
   </p>
